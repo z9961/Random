@@ -72,6 +72,7 @@ public class WordTest {
             Expression e = l.get(i);
             String cal = e.getInta() + e.getOperator() + e.getIntb() + "=";
             System.out.println("cal = " + cal);
+            map.put("no", i + 1);
             map.put("title", cal);
             newList.add(map);
         }

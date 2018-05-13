@@ -26,24 +26,7 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/com.mchange/c3p0 -->
-        <dependency>
-            <groupId>com.mchange</groupId>
-            <artifactId>c3p0</artifactId>
-            <version>0.9.5.2</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/commons-dbutils/commons-dbutils -->
-        <dependency>
-            <groupId>commons-dbutils</groupId>
-            <artifactId>commons-dbutils</artifactId>
-            <version>1.7</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
-        <dependency>
-            <groupId>com.microsoft.sqlserver</groupId>
-            <artifactId>mssql-jdbc</artifactId>
-            <version>6.4.0.jre9</version>
-        </dependency>
+
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
